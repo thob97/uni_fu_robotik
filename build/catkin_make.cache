@@ -1,0 +1,2 @@
+assignment2_publisher_subscriber
+-DCATKIN_DEVEL_PREFIX=/home/thob/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thob/catkin_ws/install -G Unix Makefiles

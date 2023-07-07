@@ -1,0 +1,22 @@
+#to start
+    roscore
+    rviz
+    rosbag play -l calibration.bag -r0.1
+    
+    #or
+    SVGA_VGPU10=0 roslaunch autominy Simulated.launch
+
+#compile
+    source devel/setup.bash
+
+#usefull
+    rostopic list
+    rospopic type "topic name"
+    rostopic echo "topic name"
+
+#plot
+    rqt_plot "topic name"
+
+#git
+    git rebase -i HEAD~3
+    git log

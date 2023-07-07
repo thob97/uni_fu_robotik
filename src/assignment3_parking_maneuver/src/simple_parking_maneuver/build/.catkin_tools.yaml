@@ -1,0 +1,6 @@
+devel_space: /home/thob/catkin_ws/src/assignment3_parking_maneuver/src/simple_parking_maneuver/devel
+install: false
+install_space: /home/thob/catkin_ws/src/assignment3_parking_maneuver/src/simple_parking_maneuver/install
+profile: default
+source_space: /home/thob/catkin_ws/src/assignment3_parking_maneuver/src/simple_parking_maneuver/src
+workspace: /home/thob/catkin_ws/src/assignment3_parking_maneuver/src/simple_parking_maneuver

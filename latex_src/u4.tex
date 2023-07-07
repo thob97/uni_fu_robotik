@@ -1,0 +1,62 @@
+\input{src/header}
+
+\newcommand{\dozent}{Prof. Goehring}
+\newcommand{\tutor}{-}
+\newcommand{\tutoriumNo}{01\\Materialien: Latex, Skript, Ros}
+\newcommand{\ubungNo}{4}
+\newcommand{\veranstaltung}{Robotik}
+\newcommand{\semester}{WS21/22}
+\newcommand{\studenten}{David Ly \& Ina Fendel \& Thore Brehmer}
+
+% /////////////////////// BEGIN DOKUMENT /////////////////////////
+\begin{document}
+\input{src/titlepage}
+\setcounter{section}{1}
+
+% /////////////////////// Task 2 /////////////////////////
+\section{Assignment: Camera parameters (2 Points)}
+\begin{enumerate}[]
+    \item \includegraphics[width=1\textwidth]{src/u4/task2.png}
+\end{enumerate}  
+
+% /////////////////////// Task 3 /////////////////////////
+\section{Assignment: Binary Image (4 Points)}
+\begin{enumerate}[]
+    \item \includegraphics[width=0.75\textwidth]{src/u4/task3.png}
+\end{enumerate}  
+
+% /////////////////////// Task 4 /////////////////////////
+\section{Assignment: Find white pixels (4 Points)}
+\begin{enumerate}[]
+    \item \includegraphics[width=1\textwidth]{src/u4/task4.png}
+\end{enumerate}  
+
+% /////////////////////// Task 5 /////////////////////////
+\section{Assignment: Compute the extrinsic parameters (6 Points)}
+\begin{enumerate}[]
+    \item \includegraphics[width=1\textwidth]{src/u4/task5.png}
+\end{enumerate}  
+
+% /////////////////////// Task 6 /////////////////////////
+\section{Assignment: Finding the camera pose (4 Points)}
+\begin{itemize}
+    \item What is the homogeneous 4x4 transformation matrix?
+    \item What is its inverse?
+    \begin{enumerate}[]
+        \item \includegraphics[width=1\textwidth]{src/u4/task6.png}
+    \end{enumerate}
+    
+    \item Which value in which matrix represents the camera height above the ground plane?
+    \begin{enumerate}[]
+        \item \includegraphics[width=1\textwidth]{src/u4/task6_2.png}
+    \end{enumerate}
+    
+    \item In which frame is the resulting transformation?
+    \begin{enumerate}[]
+        \item Von Welt zur Kamera. Also in der Kamera.
+    \end{enumerate}
+\end{itemize}  
+
+\item Link to the source code: \url{https://git.imp.fu-berlin.de/thob97/thornavid/-/blob/thore/src/assignment4/src/subscriberclass.py}
+
+\end{document}
