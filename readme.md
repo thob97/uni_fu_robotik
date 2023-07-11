@@ -1,4 +1,4 @@
-# Title
+# Robotik
 
 The purpose of this repository is to serve as data storage and to present the completed work of the course Robotik at Freie Universität Berlin.
 
