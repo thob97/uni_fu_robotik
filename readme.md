@@ -7,6 +7,7 @@ The purpose of this repository is to serve as data storage and to present the co
 - [Course content](#course-content)
 - [Grading](#grading)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -43,3 +44,6 @@ Nach dieser Vorlesung werden die Studenten in der Lage sein, einfache Algorithme
 * Thore Brehmer - solved tasks 2-9
 * David Ly - 
 * Ina Fendel - solved task 1
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
